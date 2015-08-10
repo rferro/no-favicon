@@ -1,0 +1,27 @@
+{
+  "name": "no-favicon",
+  "version": "0.0.1",
+  "description": "Express middleware to ignore favicon.* requests",
+  "author": {
+    "name": "Ricardo Ferro",
+    "email": "ricardo.ferro@gmail.com"
+  },
+  "homepage": "https://github.com/rferro/no-favicon",
+  "bugs": "https://github.com/rferro/no-favicon/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rferro/no-favicon"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "connect",
+    "favicon",
+    "fav",
+    "icon"
+  ],
+  "license": "MIT"
+}
