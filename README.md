@@ -5,7 +5,7 @@ Express middleware to ignore favicon.* requests
 ## Install
 
 ```shell
-npm install no-favicon
+npm install --save no-favicon
 ```
 
 ## Example
